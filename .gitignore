@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/.vscode
+/obj
+package
+package-lock
+sotxreact.esproj
+stoxreact.esproj.user
+nuget.config
+
